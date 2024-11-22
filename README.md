@@ -6,7 +6,7 @@
 - [Download](#Download)
 
 ## Description
-The project is a Flexbox Navigation Bar built with HTML and CSS
+The project is a Flexbox Navigation Bar built with HTML and CSS. The project is aimed at understanding the CSS 'flex' dispaly feature.
 
 ## How to Use
 To clone and run this project locally, you need Git and any code editor installed on your computer.
