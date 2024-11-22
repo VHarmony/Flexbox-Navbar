@@ -10,7 +10,6 @@ The project is a Flexbox Navigation Bar built with HTML and CSS
 
 ## How to Use
 To clone and run this project locally, you need Git and any code editor installed on your computer.
-Likewise, the code can be copied and invluded in an exsisting HTML file for use.
 
 ## Download
 You can download the latest update of this project from the download option in GitHub.
